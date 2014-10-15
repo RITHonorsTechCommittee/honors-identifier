@@ -15,7 +15,7 @@
    {
      "matches": ["https://mycourses.rit.edu/*classlist*"],
      "css": ["style.css"],
-	 "js": ["jquery-1.11.1.js","jquery.csv-0.71.js","script.js"]
+	 "js": ["jquery-1.11.1.js","script.js"]
    }
   ],
   "web_accessible_resources": ["options.html"]
